@@ -4,6 +4,7 @@ Las siguientes librerias son para el uso de diseno electronico de los softwares 
 
 - Altium Designer
 - Autodesk Eagle
+- EasyEDA
 - Fusion Electronic
 - KiCAD
 - Proteus
